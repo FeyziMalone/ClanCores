@@ -10,4 +10,4 @@ Welcomepanel addons (For leaderboard) : https://rustplugins.net/
 About ClanCores (AKA ClanScore)
 ClanCores was developed by TOOLCUB (FEYZI) & ThePiterig (Paid for base) The plugin is designed to add a points system to clans plugins and keep a leaderboard record of the points earned/lost each wipe, At the end of the wipe It gives winners the [champion] rank & kits. IF a clan gets raided they lose X amount of points. Points can be earned by: Looting, raiding, killing & Winning events.
 
- <img src="https://img001.prntscr.com/file/img001/BE_jnUjdT2O144w0Ezixaw.png" alt="Girl in a jacket" width="500" height="600">  https://img001.prntscr.com/file/img001/BE_jnUjdT2O144w0Ezixaw.png
+ <img src="https://img001.prntscr.com/file/img001/BE_jnUjdT2O144w0Ezixaw.png" alt="Girl in a jacket" width="750" height="900">
